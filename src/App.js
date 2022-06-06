@@ -1,8 +1,8 @@
 import React from "react";
-import { AboutMeScreen } from "./screens";
+import Routes from "./routes";
 
 const App = () => {
-  return <AboutMeScreen />;
+  return <Routes />;
 };
 
 export default App;
